@@ -1,5 +1,5 @@
 # Hi! I’m **Jay**👋
-i'm a third-year student passionate about applying **Data Science and Analytics**
+I'm a third-year student passionate about applying **Data Science and Analytics**
 to solve real-world business problems.  
 Currently applying for the **SCG Excellent Internship (Data Science Track)**.
 
