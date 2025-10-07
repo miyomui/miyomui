@@ -11,7 +11,9 @@ Currently applying for the **SCG Excellent Internship (Data Science Track)**.
 
 
 ## My Portfoilo
-- [Data Science Portfolio](https://github.com/miyomui/data-science-portfolio)
+- GitHub [Portfolio](https://github.com/miyomui/data-science-portfolio)
+- My Personal Website [Portfolio](https://miyomui.github.io/)
+
 
 
 
