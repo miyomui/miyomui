@@ -10,6 +10,9 @@ Currently applying for the **SCG Excellent Internship (Data Science Track)**.
 - **Tools:** Tableau/Power BI, Excel, Git/GitHub, Jupyter Notebook, MySQL, Docker
 
 
+## My Portfoilo
+[Data Science Portfolio](https://github.com/miyomui/data-science-portfolio)
+
 
 
 ## 📫 Contact
