@@ -4,14 +4,14 @@ Hi! I’m **Jay**, a third-year student passionate about applying **Data Science
 to solve real-world business problems.  
 Currently applying for the **SCG Excellent Internship (Data Science Track)**.
 
----
+
 
 ## 🧠 Skills
 - **Languages:** Python (pandas, numpy, scikit-learn), SQL  
 - **Tools:** Power BI, Excel, Git, Jupyter Notebook, MySQL
 - **Concepts:** Data Cleaning, Visualization, Predictive Modeling, Business Analytics  
 
----
+
 
 ## 💼 Projects
 | Project | Description | Tools |
@@ -20,13 +20,13 @@ Currently applying for the **SCG Excellent Internship (Data Science Track)**.
 | [Energy Usage Analytics](./projects) | Analyzed energy data and identified cost-saving patterns | Python |
 | [Demand Forecast Model](./projects) | Built ML model to predict product demand | Python, scikit-learn |
 
----
+
 
 ## 🎓 Certificates
 - [Google Data Analytics - Coursera](./certificates/google_data_analytics.pdf)
 - [Kaggle: Intro to Machine Learning](./certificates/kaggle_intro_ml.png)
 
----
+
 
 ## 📫 Contact
 📧 **lalittawadeevongkoon@email.com**  
