@@ -1,20 +1,33 @@
-## Hi there 👋
+# 🌟 Lalittawadee Vongkoon — Data Science Portfolio
 
-Lalittawadee Vongkoon
-Jay
-Rice
+Hi! I’m **Jay**, a third-year student passionate about applying **Data Science and Analytics**
+to solve real-world business problems.  
+Currently applying for the **SCG Excellent Internship (Data Science Track)**.
 
-<!--
-**miyomui/miyomui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- **Languages:** Python (pandas, numpy, scikit-learn), SQL  
+- **Tools:** Power BI, Excel, Git, Jupyter Notebook, MySQL
+- **Concepts:** Data Cleaning, Visualization, Predictive Modeling, Business Analytics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Projects
+| Project | Description | Tools |
+|----------|--------------|--------|
+| [Sales Performance Dashboard](./projects) | Visualized regional sales and profitability using Power BI | Power BI, Excel |
+| [Energy Usage Analytics](./projects) | Analyzed energy data and identified cost-saving patterns | Python |
+| [Demand Forecast Model](./projects) | Built ML model to predict product demand | Python, scikit-learn |
+
+---
+
+## 🎓 Certificates
+- [Google Data Analytics - Coursera](./certificates/google_data_analytics.pdf)
+- [Kaggle: Intro to Machine Learning](./certificates/kaggle_intro_ml.png)
+
+---
+
+## 📫 Contact
+📧 **lalittawadeevongkoon@email.com**  
+🔗 [GitHub](https://github.com/miyomui) | [LinkedIn](www.linkedin.com/in/miyomui)
