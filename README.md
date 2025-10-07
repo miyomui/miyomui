@@ -7,7 +7,7 @@ Currently applying for the **SCG Excellent Internship (Data Science Track)**.
 
 ## 🧠 Skills
 - **Languages:** Python (pandas, numpy, scikit-learn), SQL  
-- **Tools:** Tableau/Power BI, Excel, Git/GitHub, Jupyter Notebook, MySQL, Tableau/Power BI, Docker
+- **Tools:** Tableau/Power BI, Excel, Git/GitHub, Jupyter Notebook, MySQL, Docker
 
 
 
