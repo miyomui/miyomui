@@ -18,5 +18,5 @@ Currently applying for the **SCG Excellent Internship (Data Science Track)**.
 
 
 ## Contact
-📧 **lalittawadeevongkoon@email.com**  
+📧 **lalittawadeevongkoon@gmail.com**  
 🔗 [GitHub](https://github.com/miyomui) | [LinkedIn](https://www.linkedin.com/in/miyomui/)
