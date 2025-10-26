@@ -1,6 +1,6 @@
 # Hi! I’m **Jay**👋
 I'm a third-year AI and Data Science student passionate about applying **Data Science and Analytics** to solve real-world business problems, with experience in building data pipelines and forecasting models.
-Currently applying for the **SCG Excellent Internship (Data Science Track)**.
+
 
 
 
