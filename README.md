@@ -19,8 +19,7 @@ I'm a third-year AI and Data Science student passionate about applying **Data Sc
 - [**My Personal Website Portfolio**](https://miyomui.github.io/) *(Unavailable)*
 
 ## Mini Project (Repositories)
-- [**Cement Sales Analysis & ETL Pipeline**](https://github.com/miyomui/cement-sales-analysis.git)
-- [**Thai Van Ticket Analysis Dashboard (Mini Hackathon)**](https://github.com/miyomui/Mini-Hackathon-Thai-Van-Ticket.git)
+<div width="100%" align="center"><a href="https://github.com/miyomui/cement-sales-analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miyomui&repo=cement-sales-analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/miyomui/Mini-Hackathon-Thai-Van-Ticket" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miyomui&repo=Mini-Hackathon-Thai-Van-Ticket&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ## Contact
 📧 lalittawadeevongkoon@gmail.com  
