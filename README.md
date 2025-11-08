@@ -46,6 +46,10 @@
 📧 lalittawadeevongkoon@gmail.com  
 🔗 [GitHub](https://github.com/miyomui) | [LinkedIn](https://www.linkedin.com/in/miyomui/) | [Linktree](https://linktr.ee/miyomui)
 
-  <img src="https://komarev.com/ghpvc/?username=miyomui&label=Profile%20views&color=0e75b6&style=flat" alt="miyomui" />
+---
 
+<h3> Badges </h3>h3>
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/miyomui"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miyomui&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
