@@ -14,7 +14,7 @@
 <h3><b><center> Portfoilo </center></b></h3>
 
 - [**GitHub's Portfolio**](https://github.com/miyomui/data-science-portfolio)
-- [**My Personal Website Portfolio**](https://miyomui.github.io/) *(Unavailable)* <br /><br /><br /><br /><br /><br /><br />
+- [**My Personal Website Portfolio**](https://miyomui.github.io/) *(Unavailable)* <br /><br /><br /><br />
 
 ---
 
