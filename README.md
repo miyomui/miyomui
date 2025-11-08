@@ -1,4 +1,11 @@
-# Hi! I’m **Jay** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi! I’m **Jay** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miyomui&label=Profile%20views&color=0e75b6&style=flat" alt="miyomui" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 I'm a third-year AI and Data Science student passionate about applying **Data Science and Analytics** to solve real-world business problems, with experience in building data pipelines and forecasting models.
 
 
