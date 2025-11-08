@@ -1,4 +1,4 @@
-<center> # Hi! I’m **Jay** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <p align="left"> <img src="https://komarev.com/ghpvc/?username=miyomui&label=Profile%20views&color=0e75b6&style=flat" alt="miyomui" /> </p> </center>
+# <center> Hi! I’m **Jay** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <p align="left"> <img src="https://komarev.com/ghpvc/?username=miyomui&label=Profile%20views&color=0e75b6&style=flat" alt="miyomui" /> </p> </center>
 
 ## I'm a third-year AI and Data Science student passionate about applying **Data Science and Analytics** to solve real-world business problems, with experience in building data pipelines and forecasting models.
 
