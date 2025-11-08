@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi! I’m **Jay** ![giphy](https://github.com/user-attachments/assets/9d340fcf-f498-495e-b201-145ac0b150c6)
+  # Hi! I’m **Jay** ![giphy](https://github.com/user-attachments/assets/924ca711-57cb-4c00-b0db-273bf683a7a7)
 
 
 
