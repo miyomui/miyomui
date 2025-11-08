@@ -5,7 +5,7 @@
 
 
   <h3>
-    I'm a third-year AI and Data Science student passionate about applying <b>Data Science and Analytics</b> to solve real-world business problems, with experience in building data pipelines and forecasting models.
+    Third-year AI & Data Science student passionate about transforming raw data into business insights. Experienced in building end-to-end data pipelines, predictive models, and interactive BI dashboards.
   </h3>
 
 </div>
