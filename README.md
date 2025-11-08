@@ -1,9 +1,8 @@
 <div align="center">
   
-  # Hi! I’m **Jay** ![giphy](https://github.com/user-attachments/assets/924ca711-57cb-4c00-b0db-273bf683a7a7)
+# Hi! I’m **Jay** <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV3ZDdld2Fwb29kenVsOTI3ZmVhNXFpdmZ6NDdqaDBjY2tuemJ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cU2R80zAXIvzFMmVd4/giphy.gif" width="50px" alt="giphy">
 
-
-
+![alt text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRzNnNzaXNlYXVvbGp3ZXd6a21wZ2l5bHF2cnhkanNsZ2V0cGd0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tyttpGT2apUm6wtb0kM/giphy.gif)
   <h3>
     Third-year AI & Data Science student passionate about transforming raw data into business insights. Experienced in building end-to-end data pipelines, predictive models, and interactive BI dashboards.
   </h3>
@@ -25,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sqlite,mysql,html,css,js,git,github,vscode,docker,ubuntu&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,sqlite,mysql,html,css,js,react,nodejs,git,github,vscode,docker,ubuntu&theme=dark" />
   </a>
 </p>
 
