@@ -3,14 +3,14 @@
   # Hi! I’m **Jay** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
----
+
   <h3>
     Third-year AI & Data Science student passionate about transforming raw data into business insights. Experienced in building end-to-end data pipelines, predictive models, and interactive BI dashboards.
   </h3>
 
 </div>
 
-
+---
 <h3> Resume & Portfoilo </h3>
 
 - [**Resume (PDF)**](https://github.com/miyomui/my-portfolio/blob/main/resume/Resume_Lalitawadee-Wongkhun_Bangkok-University.pdf)
