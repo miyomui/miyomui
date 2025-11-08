@@ -10,7 +10,7 @@
 
 </div>
 
-
+---
 
 ## Skills
 <p align="left">
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/_DAX-Language-green?style=flat" alt="DAX" />
 </p>
 
-
+---
 
 ## Resume & Portfoilo
 - [**Resume (PDF)**](https://github.com/miyomui/my-portfolio/blob/main/resume/Resume_Lalitawadee-Wongkhun_Bangkok-University.pdf)
@@ -33,7 +33,7 @@
 
 ## Mini Project (Repositories)
 <div width="100%" align="center"><a href="https://github.com/miyomui/cement-sales-analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miyomui&repo=cement-sales-analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/miyomui/Mini-Hackathon-Thai-Van-Ticket" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miyomui&repo=Mini-Hackathon-Thai-Van-Ticket&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+---
 ## Contact
 📧 lalittawadeevongkoon@gmail.com  
 🔗 [GitHub](https://github.com/miyomui) | [LinkedIn](https://www.linkedin.com/in/miyomui/) | [Linktree](https://linktr.ee/miyomui)
