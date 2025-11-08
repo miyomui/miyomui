@@ -10,6 +10,14 @@
 
 </div>
 
+
+<h3> Resume & Portfoilo </h3>
+
+- [**Resume (PDF)**](https://github.com/miyomui/my-portfolio/blob/main/resume/Resume_Lalitawadee-Wongkhun_Bangkok-University.pdf)
+- [**GitHub's Portfolio**](https://github.com/miyomui/data-science-portfolio)
+- [**My Personal Website Portfolio**](https://miyomui.github.io/) *(Unavailable)*
+
+
 ---
 
 <h3> Skills </h3>
@@ -25,13 +33,7 @@
   <img src="https://img.shields.io/badge/_DAX-Language-green?style=flat" alt="DAX" />
 </p>
 
----
 
-<h3> Resume & Portfoilo </h3>
-
-- [**Resume (PDF)**](https://github.com/miyomui/my-portfolio/blob/main/resume/Resume_Lalitawadee-Wongkhun_Bangkok-University.pdf)
-- [**GitHub's Portfolio**](https://github.com/miyomui/data-science-portfolio)
-- [**My Personal Website Portfolio**](https://miyomui.github.io/) *(Unavailable)*
 
 ---
 
