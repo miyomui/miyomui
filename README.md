@@ -14,9 +14,9 @@ I'm a third-year AI and Data Science student passionate about applying **Data Sc
 
 
 ## Resume & Portfoilo
-- Resume [**Download Resume (PDF)**](https://github.com/miyomui/my-portfolio/blob/main/resume/Resume_Lalitawadee-Wongkhun_Bangkok-University.pdf)
-- GitHub [**Portfolio**](https://github.com/miyomui/data-science-portfolio)
-- My Personal Website [**Portfolio**](https://miyomui.github.io/) *(Unavailable)*
+- [**Resume (PDF)**](https://github.com/miyomui/my-portfolio/blob/main/resume/Resume_Lalitawadee-Wongkhun_Bangkok-University.pdf)
+- [**GitHub's Portfolio**](https://github.com/miyomui/data-science-portfolio)
+- [**My Personal Website Portfolio**](https://miyomui.github.io/) *(Unavailable)*
 
 ## Mini Project (Repositories)
 - [**Cement Sales Analysis & ETL Pipeline**](https://github.com/miyomui/cement-sales-analysis.git)
