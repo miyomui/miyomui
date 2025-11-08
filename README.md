@@ -41,10 +41,6 @@
 
 <div width="100%" align="center"><a href="https://github.com/miyomui/cement-sales-analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miyomui&repo=cement-sales-analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/miyomui/Mini-Hackathon-Thai-Van-Ticket" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miyomui&repo=Mini-Hackathon-Thai-Van-Ticket&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<h3> Contact </h3>
-
-📧 lalittawadeevongkoon@gmail.com  
-🔗 [GitHub](https://github.com/miyomui) | [LinkedIn](https://www.linkedin.com/in/miyomui/) | [Linktree](https://linktr.ee/miyomui)
 
 ---
 
@@ -53,3 +49,9 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/miyomui"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miyomui&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+---
+<h3> Contact </h3>
+
+📧 lalittawadeevongkoon@gmail.com  
+🔗 [GitHub](https://github.com/miyomui) | [LinkedIn](https://www.linkedin.com/in/miyomui/) | [Linktree](https://linktr.ee/miyomui)
