@@ -6,12 +6,17 @@ I'm a third-year AI and Data Science student passionate about applying **Data Sc
 
 
 ## Skills
-* **Programming & Databases:** Python (Pandas, Scikit-learn, etc.), SQL (SQLite)
-* **Data Analysis & Visualization:** EDA, KPI Analysis, Statistical Modeling, Power BI, Matplotlib, Seaborn
-* **Machine Learning & Forecasting:** Regression, Time Series Analysis (Prophet)
-* **Data Engineering:** ETL Pipeline Development, Data Cleaning
-* **Tools & Technologies:** Git, GitHub, Jupyter Notebook, VS Code
-* **Web Basics:** HTML, CSS, JavaScript
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sqlite,mysql,html,css,js,git,github,vscode,docker,ubuntu&theme=dark" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/_DAX-Language-green?style=flat" alt="DAX" />
+</p>
+
 
 
 ## Resume & Portfoilo
