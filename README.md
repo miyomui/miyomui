@@ -48,7 +48,7 @@
 
 ---
 
-<h3> Badges </h3>h3>
+<h3> Badges </h3>
 
 <b>My GitHub Stats</b>
 
