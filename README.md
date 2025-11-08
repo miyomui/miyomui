@@ -11,9 +11,8 @@
 
 ---
 
-<h3><b><center> Resume & Portfoilo </center></b></h3>
+<h3><b><center> Portfoilo </center></b></h3>
 
-- [**Resume (PDF)**](https://github.com/miyomui/my-portfolio/blob/main/resume/Resume_Lalitawadee-Wongkhun_Bangkok-University.pdf)
 - [**GitHub's Portfolio**](https://github.com/miyomui/data-science-portfolio)
 - [**My Personal Website Portfolio**](https://miyomui.github.io/) *(Unavailable)*
 
