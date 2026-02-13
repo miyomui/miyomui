@@ -33,26 +33,6 @@
 </p>
 
 
-
----
-<h3><b><center> Mini Project (Repositories) </center></b></h3>
-
-<div align="center">
-
-<a href="https://github.com/miyomui/cement-sales-analysis">
-  <img width="45%" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=miyomui&repo=cement-sales-analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-<a href="https://github.com/miyomui/Mini-Hackathon-Thai-Van-Ticket">
-  <img width="45%" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=miyomui&repo=Mini-Hackathon-Thai-Van-Ticket&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-</div>
-
-
-
 ---
 
 
@@ -70,18 +50,3 @@
 📧 lalittawadeevongkoon@gmail.com  
 🔗 [GitHub](https://github.com/miyomui) | [LinkedIn](https://www.linkedin.com/in/miyomui/) | [Linktree](https://linktr.ee/miyomui)
 
-
----
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miyomui/miyomui/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miyomui/miyomui/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/miyomui/miyomui/output/pacman-contribution-graph.svg">
-</picture>
-
-###
